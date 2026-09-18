@@ -1,0 +1,95 @@
+---
+title: "Qualtrics M01-1: Designing a Survey - Huang, Yushan"
+author: "Yushan Huang"
+date: "2026-09-17"
+format:
+  html:
+    toc: true
+    embed-resources: true
+    code-fold: false
+---
+
+## Purpose
+
+This report documents my rough-draft progress for **Qualtrics M01-1: Designing a Survey**. The assignment asks students to convert the Word version of the *Survey of Educational Needs for MR Professionals* into a Qualtrics survey, reflect question numbers, recode values, skip/display logic, and improve the survey's presentation. The module specifically states that this checkpoint is a **rough draft** and that the survey does not need to be complete yet.
+
+## Work completed
+
+I created the Qualtrics project using the required naming format:
+
+**Huang, Yushan - Survey of Educational Needs of MR Professionals**
+
+I then built the beginning portion of the survey through **Q2.11**. The rough-draft work completed so far includes:
+
+- **Q1.1** – consent/introduction question with Yes/No responses, recode values **1 = Yes** and **2 = No**, and skip logic sending **No** to the end of the survey.
+- **Q1.2** – market-research experience question with Yes/No responses and skip logic sending **No** to the end of the survey.
+- **Q2.1** – Part 1 section introduction.
+- **Q2.2-Q2.10** – employment, company, occupation, organizational-level, and job-role questions, including recode values and text entry for applicable “Other” choices.
+- **Q2.11** – matrix question with 12 research-activity rows and four response columns. The response recodes are **3 = Primary function, 2 = Secondary function, 1 = Not part of job role, and 9 = Do not know**.
+
+## Screenshot evidence
+
+### 1. Project collaboration menu
+
+The Projects page shows the project menu with the **Collaborate** option used for project sharing.
+
+![Project collaboration menu](qualtrics-sharing.png)
+
+*Figure 1. Qualtrics project menu showing the Collaborate option.*
+
+### 2. Beginning of the rough draft
+
+The preview shows the opening consent/introduction section and the Q1.1 response options.
+
+![Beginning of the Qualtrics survey](qualtrics-beginning.png)
+
+*Figure 2. Beginning of the rough draft, including the consent/introduction section.*
+
+### 3. Middle of the rough draft
+
+The preview shows Q2.4 and Q2.5 in the current rough draft.
+
+![Middle of the Qualtrics survey](qualtrics-middle.png)
+
+*Figure 3. Middle portion of the rough draft.*
+
+### 4. Current ending area of the rough draft
+
+The preview shows Q2.11, the research-involvement matrix.
+
+![Current ending area of the Qualtrics survey](qualtrics-ending.png)
+
+*Figure 4. Current ending area of the rough draft, showing Q2.11.*
+
+## Reflection on the work completed so far
+
+The rough-draft process helped me become more familiar with building survey questions in Qualtrics and matching a source questionnaire's structure. I practiced selecting different question types, setting single-answer response formats, adding text entry to applicable “Other” choices, assigning recode values, applying skip logic, and using the preview function to visually check the survey.
+
+At this stage, the survey is intentionally **not complete**, consistent with the module's instruction that the rough draft may contain only part of the final survey. The completed portion currently reaches Q2.11.
+
+## Submission status
+
+| Item | Status |
+|---|---|
+| Rough Qualtrics survey created | Completed |
+| Survey naming format | Completed |
+| Questions built through Q2.11 | Completed |
+| Recode values reflected where applicable | Completed |
+| Skip logic for Q1.1 and Q1.2 | Completed |
+| Preview screenshots captured | Completed |
+| Project collaboration step documented | Screenshot included |
+| Full survey through Q5.15 | Not yet completed; this checkpoint is a rough draft |
+
+## Appendix
+
+### GitHub Repository
+
+**[Add the GitHub repository URL here before the final submission.]**
+
+### GitHub Pages
+
+**[Add the GitHub Pages URL here before the final submission.]**
+
+### Qualtrics Preview
+
+[Open the current Qualtrics survey preview](https://cpp.pdx1.qualtrics.com/jfe/preview/previewId/d8792756-3bd2-47a5-b2c7-fa7128892c16/SV_8crbjiEfljPHcOy?Q_CHL=preview&Q_SurveyVersionID=current)
